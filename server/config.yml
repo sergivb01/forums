@@ -1,0 +1,7 @@
+jwt:
+  secret: "mysupershittyasssecret"
+  duration: "1m"
+
+postgresURI: "postgres://itcknazz:Pf5POoY-J1B0sZ6o8NHgywa9mlVnYisL@rogue.db.elephantsql.com:5432/itcknazz"
+
+mongoURI: "myprivatemongouri"
